@@ -61,4 +61,30 @@ body{
     border-radius: 0;
 }
 
+.service h1, h5{
+    text-align: center;
+}
+.card{
+    border: none;
+    text-align: center;
+}
+
+.text-android{
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.ourapp .btn{
+    font-size: 16px;
+}
+
+.app-photo{
+    max-width: 600px;
+    width: 100%;
+}
+.footer{
+    padding-bottom: 70px;
+}
+.footer .text-white{
+    text-align: center;
+}
 
