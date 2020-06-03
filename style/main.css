@@ -97,6 +97,7 @@ body{
 }
 .footer{
     padding-bottom: 70px;
+    background-color: orange;
 }
 .footer .text-white{
     text-align: center;
